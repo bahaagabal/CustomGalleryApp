@@ -42,14 +42,16 @@ Device with images/videos or an emulator with media files for testing
 Setup Instructions
 
 1.Clone the repository:
-   git clone https://github.com/bahaagabal/CustomGalleryApp.git
-   cd gallery-app
+git clone https://github.com/bahaagabal/CustomGalleryApp.git
+cd gallery-app
+
 2.Open the project in Android Studio:
-   Open Android Studio.
-   Select File > Open and choose the project directory.
+Open Android Studio.
+Select File > Open and choose the project directory.
 
 3.Run the app:
-After ensuring that your Android device or emulator has media files (images/videos), simply press the Run button in Android Studio to build and launch the app.
+After ensuring that your Android device or emulator has media files (images/videos), simply press
+the Run button in Android Studio to build and launch the app.
 4.Test the functionality:
 Navigate through the "All Images", "All Videos", and various album folders.
 Check that the app properly categorizes and displays media files in each album.
@@ -64,8 +66,8 @@ Videos are shown when you click on a video item , allowing users to watch them.
 
 Code Overview
 
-- we used clean architecture 
-- Mvi Pattern 
+- we used clean architecture
+- Mvi Pattern
 - Dagger Hilt for dependency injection
-- Exo Player For Displaying Videos 
+- Exo Player For Displaying Videos
 - Jetback compose 
