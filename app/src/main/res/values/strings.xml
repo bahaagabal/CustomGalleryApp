@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomGalleryApp</string>
+    <string name="album_title">%1s - ( %2s )</string>
+    <string name="show_in_grid">Show in Grid:</string>
+</resources>
