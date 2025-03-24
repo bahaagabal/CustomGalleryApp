@@ -43,7 +43,7 @@ Setup Instructions
 
 1.Clone the repository:
 git clone https://github.com/bahaagabal/CustomGalleryApp.git
-cd gallery-app
+cd CustomGalleryApp
 
 2.Open the project in Android Studio:
 Open Android Studio.
@@ -70,4 +70,5 @@ Code Overview
 - Mvi Pattern
 - Dagger Hilt for dependency injection
 - Exo Player For Displaying Videos
+- Flows & Coroutines for Async Operations
 - Jetback compose 
